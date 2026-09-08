@@ -1,0 +1,6 @@
+{
+  "name": "Kinh Mai Thuyết Gallery",
+  "description": "Phòng tranh nghệ thuật cá nhân của họa sĩ Kinh Mai Thuyết - Tối giản, thanh tịnh, giao thoa giữa văn hóa dân gian Việt Nam và triết lý Phật giáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
